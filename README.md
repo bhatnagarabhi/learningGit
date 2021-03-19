@@ -1,3 +1,1 @@
-This is the new README.md file
-
-This file was edited locally
+This was cleared due to a merge conflict
